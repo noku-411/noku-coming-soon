@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.74603337.chunk.css",
+    "main.js": "/static/js/main.6956943b.chunk.js",
+    "main.js.map": "/static/js/main.6956943b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83083446.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83083446.js.map",
+    "static/js/2.50c776af.chunk.js": "/static/js/2.50c776af.chunk.js",
+    "static/js/2.50c776af.chunk.js.map": "/static/js/2.50c776af.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.74603337.chunk.css.map": "/static/css/main.74603337.chunk.css.map",
+    "static/js/2.50c776af.chunk.js.LICENSE.txt": "/static/js/2.50c776af.chunk.js.LICENSE.txt",
+    "static/media/construction2.d256df19.mp4": "/static/media/construction2.d256df19.mp4",
+    "static/media/noku-logo.449b94a8.png": "/static/media/noku-logo.449b94a8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83083446.js",
+    "static/js/2.50c776af.chunk.js",
+    "static/css/main.74603337.chunk.css",
+    "static/js/main.6956943b.chunk.js"
+  ]
+}
